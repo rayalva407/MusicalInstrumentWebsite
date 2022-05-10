@@ -78,16 +78,16 @@ form {
   color: #EDF4FC;
   display: flex;
   flex-direction: column;
-  padding: 50px;
-  margin: 50px;
+  padding: 15px;
   border-radius: 15px;
 }
 
 input {
-  margin-bottom: 20px;;
+  margin-bottom: 15px;
 }
+
 textarea {
-  margin-bottom: 40px;;
+  margin-bottom: 15px;
 }
 
 label {
